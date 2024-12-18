@@ -1,0 +1,1 @@
+# This is a repo for storing contents for the logistica website
